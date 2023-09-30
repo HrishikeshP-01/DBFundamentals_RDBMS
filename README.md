@@ -73,3 +73,20 @@
 
 ## Oracle’s future
 Customers are slowly shifting to cloud databases but Oracle made the jump a bit too late. It’s hard for companies on Oracle to jump. They are working on their 2nd generation of cloud services to catch up with the competition.
+
+## Features of SQL Server
+- Networking features
+- Replication
+- Query analyzer, OLAP – using which SQL could be extended
+- Stored procedures
+- OLAP replaced by Analysis services
+- XML support, user-defined fns, indexed views, log shipping, replication enhancements
+- SQL Server Management Studio
+- Business Intelligence Development Studio
+- Create customized audits & monitor data warehouse
+- Replaced BI tools with SQL Server Data tools
+- Enhanced clustering features
+- Ease of integration into Azure cloud
+- Memory optimized tables
+- **PolyBase** – query noSQL data i.e, JSON, CSV files etc. – made archiving a lot easier
+- Complete support for Linux, Pytho
