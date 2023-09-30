@@ -71,3 +71,5 @@
 - Support for blockchain tables, self-managing in-memory features
 - Sharding advisor tools, property graph visualization, automatic zone maps
 
+## Oracle’s future
+Customers are slowly shifting to cloud databases but Oracle made the jump a bit too late. It’s hard for companies on Oracle to jump. They are working on their 2nd generation of cloud services to catch up with the competition.
