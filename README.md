@@ -56,3 +56,18 @@
 - Stored procedures can be programmed
 - We can modify source code
 - Provides immediate consistency on a single server
+
+## Feature history of Oracle DBMS
+- Created by Larry Ellison
+- Application clusters, advanced queuing, data-mining, streams
+- Automated DB management, grid infrastructure & online indexing
+- Transparent data encryption
+- Active data guard, secure files, exit data, data reduction
+- Multi-tenant architecture, in-memory column store, support for JSON
+- Active directory integration
+- Online merging of partitions & sub-partitions
+- Automatic index creation, real-time statistics maintenance, SQL queries on object stores
+- In-memory for IoT data stream
+- Support for blockchain tables, self-managing in-memory features
+- Sharding advisor tools, property graph visualization, automatic zone maps
+
