@@ -35,3 +35,15 @@
 - Highly scalable
 - Hybridization – part of database could be in cloud
 - The software even tries to fix malicious activity if detected
+
+#### MySQL
+- Open source although owned by Oracle
+- 2 licensing models – community, enterprise version
+- **ACID** – Atomicity, Consistency, Isolation, Durability
+- **Multimodal** – can support structured (based on SQL) & semi-structured data (based on JSON)
+- Scalable & fast
+- Memory based
+- Built on client-server architecture
+- Transactional
+- Supports large databases
+- **MySQL HeatWave** – In-memory query accelerator – designed for fast execution of queries, analytical & transactional queries
