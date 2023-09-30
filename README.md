@@ -47,3 +47,12 @@
 - Transactional
 - Supports large databases
 - **MySQL HeatWave** – In-memory query accelerator – designed for fast execution of queries, analytical & transactional queries
+
+#### PostgreSQL
+- Completely open-source
+- Very good reliability & active community
+- ACID
+- Triggers can be programmed
+- Stored procedures can be programmed
+- We can modify source code
+- Provides immediate consistency on a single server
