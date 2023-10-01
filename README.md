@@ -98,3 +98,12 @@ Customers are slowly shifting to cloud databases but Oracle made the jump a bit 
 - Supported prepared statements
 - Stored procedures, server-side cursors, triggers, views, XA transaction
 - Data partitioning, row-based replication, event scheduler
+
+## Database terminology
+- *Relational database* – database objects are related
+- *Database instances* – same database, several manifestations so several people can work on it at the same time
+- *In-memory* – database which is in working memory
+- *Table* – collection of related columns & rows
+- *Record* – a row in a table
+- *Primary key* – way of identifying each record using one or a combination of columns
+
