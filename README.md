@@ -109,4 +109,15 @@ Customers are slowly shifting to cloud databases but Oracle made the jump a bit 
 - Different relationship types
   - One-to-many – records in 1 table match one or more in another table
   - One-to-one – records in 1 table match those in 1 other table
+- *SQL* – standardized language used to query data in tables
+- *Query* – obtain values stored in fields of a table
+- *Recordset* – result of a specific query
+- *Join* – special query to merge data from several different tables
+- *Referential integrity* – foreign key in one table matches rows in the main table
+- *DDL* – Data Definition Language, refers to database schema & descriptions
+- *DML* – Data Manipulation Language, includes statements like UPDATE, INSERT, DELETE etc.
+- *DCL* – Data Control Language – commands to control database access
+- *Locking* – restrict multiple users manipulating the same record at the same time
+= *Rollback* – reverse all changes made by SQL statements
+- *Atomicity* – a single cell can’t contain multiple values, or, 1 transaction must be done completely, parts of a transaction can’t be successful & the rest can’t fail the whole thing has to run or nothing runs
 
