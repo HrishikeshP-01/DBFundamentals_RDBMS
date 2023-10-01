@@ -131,3 +131,6 @@ This improves database flexibility & organization.
 - eliminate repletion of data
 - separate tables for sets of related data
 - use primary keys
+#### 2NF
+- Separate tables for values that apply to multiple records
+- Use of foreign/compound keys
