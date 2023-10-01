@@ -121,3 +121,6 @@ Customers are slowly shifting to cloud databases but Oracle made the jump a bit 
 = *Rollback* – reverse all changes made by SQL statements
 - *Atomicity* – a single cell can’t contain multiple values, or, 1 transaction must be done completely, parts of a transaction can’t be successful & the rest can’t fail the whole thing has to run or nothing runs
 
+## Normalization of data
+It’s a Data organization process. We breakdown the data into related group & each group will have it’s separate table & then we define the rules & relationships between tables. 
+This improves database flexibility & organization.
