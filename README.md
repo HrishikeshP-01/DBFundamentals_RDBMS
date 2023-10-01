@@ -124,3 +124,10 @@ Customers are slowly shifting to cloud databases but Oracle made the jump a bit 
 ## Normalization of data
 It’s a Data organization process. We breakdown the data into related group & each group will have it’s separate table & then we define the rules & relationships between tables. 
 This improves database flexibility & organization.
+
+*Normal forms* – measure depth of normalization
+
+#### 1 NF – 
+- eliminate repletion of data
+- separate tables for sets of related data
+- use primary keys
