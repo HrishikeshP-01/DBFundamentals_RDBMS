@@ -138,3 +138,9 @@ This improves database flexibility & organization.
 - Elimination of fields that are not dependent on the key
 
 Eg: A customers can have multiple orders. Instead of having a single table that stores customer details along with order details, store customer info in 1 table & order info. This is 1NF. In another & have a foreign key that points to customers. This is 2NF. We see that we are storing Zip code, City & street name of customer but realize we can get all these things from Zip code so we remove City & other fields that can be derived from Zip code.
+
+
+
+- EF Codd – developed the relational model of data representation
+
+Before Codd, DBs were laregely unorganized & didn’t have a theoretical foundation. He used mathematical logic to come up with relational data models & also came up with the first abstract data model.
