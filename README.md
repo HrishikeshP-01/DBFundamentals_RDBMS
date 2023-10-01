@@ -106,4 +106,7 @@ Customers are slowly shifting to cloud databases but Oracle made the jump a bit 
 - *Table* – collection of related columns & rows
 - *Record* – a row in a table
 - *Primary key* – way of identifying each record using one or a combination of columns
+- Different relationship types
+  - One-to-many – records in 1 table match one or more in another table
+  - One-to-one – records in 1 table match those in 1 other table
 
