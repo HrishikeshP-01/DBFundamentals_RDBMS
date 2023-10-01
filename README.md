@@ -89,4 +89,12 @@ Customers are slowly shifting to cloud databases but Oracle made the jump a bit 
 - Ease of integration into Azure cloud
 - Memory optimized tables
 - **PolyBase** – query noSQL data i.e, JSON, CSV files etc. – made archiving a lot easier
-- Complete support for Linux, Pytho
+- Complete support for Linux, Python
+
+## MySQL Features
+- Fast & stable
+- Good optimization
+- Transactional capabilities
+- Supported prepared statements
+- Stored procedures, server-side cursors, triggers, views, XA transaction
+- Data partitioning, row-based replication, event scheduler
