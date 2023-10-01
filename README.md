@@ -139,7 +139,12 @@ This improves database flexibility & organization.
 
 Eg: A customers can have multiple orders. Instead of having a single table that stores customer details along with order details, store customer info in 1 table & order info. This is 1NF. In another & have a foreign key that points to customers. This is 2NF. We see that we are storing Zip code, City & street name of customer but realize we can get all these things from Zip code so we remove City & other fields that can be derived from Zip code.
 
+#### Boyce-Codd Normal Form (BCNF) a.k.a 3.5 NF
+- The DB must already be in 3NF
+- The form refers to dependency of objects
+- If 1 column implies another, then one of these columns must be super key of the other
 
+In this relationship A->B, A implies B so B is dependent on A, therefore A has to be a super key.
 
 - EF Codd – developed the relational model of data representation
 
